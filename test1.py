@@ -25,8 +25,8 @@ df9=df[df['CRASH_DATE']<"2021/01/01"]
 df=df[df['CRASH_DATE']>="2021/01/01"]
 df10=df[df['CRASH_DATE']<"2022/01/01"]
 df=df[df['CRASH_DATE']>="2022/01/01"]
-df11=df[df['CRASH_DATE']>="2022/01/01"]
-df12=df[df['CRASH_DATE']>="2022/01/01"]
+df11=df[df['CRASH_DATE']<"2023/01/01"]
+df12=df[df['CRASH_DATE']>="2023/01/01"]
 
 print(df1.shape)
 print(df2.shape)

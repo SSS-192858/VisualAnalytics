@@ -1,0 +1,4 @@
+datasets/person_*/
+datasets/vehicles_*/
+datasets/crashes_*.csv
+datasets/crashes_*/
