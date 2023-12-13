@@ -1,4 +1,3 @@
-datasets/person_*/
-datasets/vehicles_*/
+datasets/person_*.csv
 datasets/crashes_*.csv
-datasets/crashes_*/
+datasets/Weather*.csv
