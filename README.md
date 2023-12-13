@@ -14,3 +14,9 @@ We had supplemented external datasets for better visualization and understanding
 3. [Daylight Info New York City](https://aa.usno.navy.mil/data/Dur_OneYear)
 4. [NCEI Time Series Data for Precipitation and Temperature](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/city/time-series/USW00014732/tavg/all/1/2012-2019?base_prd=true&begbaseyear=1991&endbaseyear=2020)
 5. [NYC Motor Vehicle Collisions - Crashes Dataset (original)](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes)
+
+## Instructions to run
+1. First run the Unzip_tar.sh file using the command
+```./Unzip_tar.sh```
+2. Then you can run each of the notebooks to see the outputs.
+3. Some notebooks require certain python libraries to be installed. Please look at the warnings and install them first.
