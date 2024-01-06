@@ -20,3 +20,6 @@ We had supplemented external datasets for better visualization and understanding
 ```./Unzip_tar.sh```
 2. Then you can run each of the notebooks to see the outputs.
 3. Some notebooks require certain python libraries to be installed. Please look at the warnings and install them first.
+
+## Link to the previous project 
+https://github.com/SSS-192858/Motor_Cycle_Accidents_DV
